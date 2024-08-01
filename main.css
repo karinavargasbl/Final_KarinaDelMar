@@ -1,0 +1,52 @@
+
+body {
+    background-color: #f7f5e6; 
+}
+
+
+.navbar {
+    background-color: #e298cb; 
+}
+.navbar-brand,
+.nav-link {
+    color: #4a3f5c; 
+}
+.nav-link:hover {
+    color: #030303; 
+    background-color: #b54fd4;
+}
+
+
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 100vh; 
+    object-fit: cover; 
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #c70f93; 
+    border-radius: 100%;
+    width: 50px; 
+    height: 50px; 
+    background-size: 50%; 
+    
+}
+
+.carousel-indicators li {
+    background-color: #a536c7; 
+}
+
+
+.btn-primary {
+    background-color: #602d87; 
+    border-color: #4a3f5c; 
+}
+.btn-primary:hover {
+    background-color: #b322ae; 
+    border-color: #3b2a45; 
+}
+
